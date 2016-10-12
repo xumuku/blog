@@ -1,0 +1,79 @@
+September Cyber•nomics Review
+——-—-------------------------
+
+*This month unfortunately we don’t have the usual support from @coinfox. This is why we’re looking for a hero able to produce quality marked-down translations of our reviews and push them to Github in a timely fashion. We are willing to pay an agreed upon amount in SBD plus 10% of the Steem posting reward.*
+
+This report is based on data provided by Cyber•fund on 25 blockchains with largest capitalization and Cyber•rating no less than 1.4 as of October 1, 2016.
+
+https://img1.steemit.com/0x0/https://ipfs.pics/ipfs/QmNsWXmioiBUMU4xnyTB38JzeEvvXTTfTGEd3kBUbbbR8s
+
+Last month, cyber•nomics grew by $1 billion. Among the top performers:
+
+- Stellar: +48% in USD, +38% in BTC
+- Ripple: +45% in USD, +36% in BTC
+- Storj: +36% in USD, +27% in BTC
+- Digix: +33% in USD, +25% in BTC
+
+Outsiders:
+
+- NXT: -52% in USD, -49% in BTC
+- Synereo: -41% in USD, -45% in BTC
+- Steem: -34% in USD, -38% in BTC
+
+## On Capitalization per Node
+
+> *A Node in a blockchain network validates transactions, keeps a complete or partial copy of blockchain database, and operates as a blockchain data server on a permanent basis. One example of a node is a computer running Bitcoin Core wallet)*
+
+I’ve had this idea to analyze this Capitalization per Node parameter, taking the number of currently active network nodes as node count. Once I’ve had the numbers I’ve got confused about them. It’s not often that one doesn’t know what exactly the numbers mean. On the one hand, the higher capitalization per node the better. On the other hand, this rating is topped by Ripple with $30 million per validator. And we know how strongly centralized Ripple is: there are only 28 validators in its network. It turns out this metric can be used as a centralization indicator. I’d love to hear from you how you would interpret these data. Here’s the complete table:
+
+https://img1.steemit.com/0x0/https://ipfs.pics/ipfs/QmXRBuuchXZCFESExfejcWHu8VqA8KfS8NoxMUk1CPTiK4
+
+Quite a few systems were omitted from the table for various reasons:
+- Stellar, Factom, Sia, LBRY, Waves don’t publish their stats, and they are not easy to collect by hand;
+- Synereo, Safe Network, Augur, Storj don’t have their own nodes;
+- Lisk, as their stats are not credible;
+- and Ripple, since this is a statistical anomaly skewing the whole picture. Ripple’s case is something to think about.
+
+As a result of this analysis, currently it seems the whole public blockchain buzz is about 19 thousand nodes. Bitcoin and Ethereum own the absolute majority of nodes. Bitcoin has by far the largest capitalization per node. Steem is the runner-up in any case (even though there’s no data on the total number of nodes, just a list of 100 most trusted ones). So this seems an interesting metric that I’m glad we have discovered. I’m looking forward to see how this develops over time.
+
+## Dynamics by Segment
+
+This time I’ve decided to cut the volume of my writing. Let the numbers speak for themselves:
+
+https://img1.steemit.com/0x0/https://ipfs.pics/ipfs/QmV718Fv36316uKk6JkF32QazUTzXfAAYb6pHs9Cu1Xuts
+
+### Decentralized Computations
+
+In this Segment: Ethereum, Ethereum Classic, Lisk
+
+To tell the truth, DevCon2 wasn’t terribly exciting to watch from the outside. There were no Youtube broadcasts. However, just by the number of Ethereum crowdsales this month, one can tell it was interesting there. I was excited to learn about the smart Chinese city powered by smart contracts. I’d love to visit such a place! Lisk still runs on genesis delegates. It becomes increasingly hard to trust its founders.
+
+### Decentralized Storage
+
+In this Segment: Sia, Safe Network, Storj, LBRY
+
+Nothing interesting to me happened in this segment, except for the whole lot of Ethereum-based storage solutions everyone was demonstrating at DevCon2. Competition heats up in this area.
+
+### Decentralized Social Networks
+
+In this Segment: Steem, Synereo
+
+After being heavily criticized, Synereo burned half of AMP tokens, reducing capitalization by almost $150 million. And Steem is gradually approaching its productivity plateau, 14th hardfork and recent Graphene 2 announcement paint its future brighter still.
+
+### Settlement Systems
+
+In this Segment: Ripple, Stellar
+
+The news of Ripple’s investment round raised some collateral interest in Stellar as well.  I’ve covered them in depth in my [previous report](https://steemit.com/cyberfund/@hipster/cyber-nomics-in-august-2016), and I really don’t have much to add this time.
+
+### Standardized Smart Contracts
+
+In this Segment: Bitshares, NEM, Counterparty, NXT
+
+NEM becomes increasingly relevant by the day. And NXT developers have completely devoted their efforts to Ardor. NXT as a token attracts little interest these days, as its value will vaporize once Ardor launches.
+
+### Anonymous Cryptos
+
+In this Segment: Monero, Dash
+
+I don’t really have any news to tell here.
